@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: red;
+}
+ul{
+    list-style: none;
+}
+header{
+    padding:center;
+ 
+    text-align: center;
+}
+header,
+section{
+    max-width:  300px;
+    border: 1px solid black;
+text-align: center;
+}
